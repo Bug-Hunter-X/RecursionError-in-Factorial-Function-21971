@@ -1,0 +1,1 @@
+This repository demonstrates a common Python error: a RecursionError caused by improper handling of the base case in a recursive function. The `factorial_bug.py` file contains the erroneous code, while `factorial_solution.py` provides the corrected version.
